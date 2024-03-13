@@ -3,7 +3,7 @@ This repository contains the scripts accompanying the article
 
 ## Provide reference implementation in C for DiTRU and revised parameter sets of NTRU that achieve the same level of security according to the same evaluation criteria. According to NIST, the provided parameter sets targets the security levels 128-bit, 192-bit, and 256-bit.
 
-
+* The code is written based on NTRU submission to the first and third round of NIST with the required modifications for DiTRU.
 
 # Requirements
 
